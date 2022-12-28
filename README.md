@@ -1,3 +1,3 @@
 database = awslabs 
-source = line = cd
+source = line = pwd
 a+b=f
